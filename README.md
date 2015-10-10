@@ -1,6 +1,8 @@
 GWSMaterialSpinner
 ==================
 
+Soft fork of MaterialSpinner without the nineoldandroids dependency.
+
 Usage
 =====
 
